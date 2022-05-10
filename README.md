@@ -1,14 +1,11 @@
 ### Olá! Eu sou o André Gueiros 👋
 
 
-- 🔭 I’m currently working on 
-- 🌱  Estou esdando  HTML5, CSS3
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Estou estudando  HTML5, CSS3 e Javascript.
+- 👨🏻‍🎓 Cursando Desenvolvedor Full Stack Python - EBAC
+- 📚 Trabalhando na VIA VAREJO como Analista de Sistemas
+- 😍Apaixonado por Tecnologia.
+- ⌨️ Intermediário: HTML, CSS, Git, PL/SQL, SQL Server e Python.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andregds&layout=compact)](https://github.com/andregds/github-readme-stats)
