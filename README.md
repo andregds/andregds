@@ -1,10 +1,10 @@
 ### Olá! Eu sou o André Gueiros 👋
 
 
-- 💻 Estou estudando  HTML5, CSS3 e Javascript.
+- 📚 Estou estudando  HTML5, CSS3 e Javascript.
 - 👨🏻‍🎓 Cursando Desenvolvedor Full Stack Python - EBAC
-- 📚 Trabalhando na VIA VAREJO como Analista de Sistemas
-- 😍Apaixonado por Tecnologia.
+- 💻 Trabalhando na VIA VAREJO como Analista de Sistemas
+- 😍 Apaixonado por Tecnologia.
 - ⌨️ Intermediário: HTML, CSS, Git, PL/SQL, SQL Server e Python.
 
 
