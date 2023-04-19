@@ -3,6 +3,7 @@
 
 - 📚 Estou estudando  HTML5, CSS3 e Javascript.
 - 👨🏻‍🎓 Cursando Desenvolvedor Full Stack Python - EBAC
+- 👨🏻‍🎓 Cursando Pós Graduação - Site Reliability Engineering (SRE) - PUC Minas
 - 💻 Trabalhando na VIA VAREJO como Analista de Sistemas
 - 😍 Apaixonado por Tecnologia.
 - ⌨️ Intermediário: HTML, CSS, Git, PL/SQL, SQL Server e Python.
